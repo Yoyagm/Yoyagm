@@ -69,12 +69,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yoyagm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoyagm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yoyagm&theme=tokyonight" width="100%" alt="profile details"/>
+  <br/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yoyagm&theme=tokyonight" alt="stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yoyagm&theme=tokyonight&utcOffset=-5" alt="productive time"/>
+  <br/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yoyagm&theme=tokyonight" alt="repos per language"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yoyagm&theme=tokyonight" alt="most commit language"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Yoyagm&theme=tokyonight&hide_border=true" alt="streak"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Yoyagm&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoyagm&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </div>
