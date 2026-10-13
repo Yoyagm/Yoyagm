@@ -26,7 +26,7 @@ Estudiante de último semestre de Ingeniería de Sistemas y Software (UPB Bucara
 
 ## Credentials
 
-18 credentials, listed with their issuers in [the portfolio](https://johanrodriguez.is-a.dev/en#experience).
+25 credentials, listed with their issuers in [the portfolio](https://johanrodriguez.is-a.dev/en#experience).
 
 ## Stack (backed by the repos above)
 
