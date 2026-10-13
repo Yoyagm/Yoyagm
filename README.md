@@ -1,10 +1,10 @@
 # Johan David Rodriguez Castro
 
-Systems & Software Engineering student (UPB, Colombia) · ML model training & evaluation · cybersecurity · C2 English · open to remote roles
+Final-semester Systems & Software Engineering student (UPB, Colombia) · ML model training & evaluation · cybersecurity · C2 English · open to remote roles
 
 [Portfolio](https://johanrodriguez.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/johan-rodriguez-97bb29323/) · [Email](mailto:johan.rc2020@gmail.com)
 
-Estudiante de 7.º semestre de Ingeniería de Sistemas y Software (UPB Bucaramanga) · [Portafolio en español](https://johanrodriguez.is-a.dev/es)
+Estudiante de último semestre de Ingeniería de Sistemas y Software (UPB Bucaramanga; fin de carrera previsto en 2026) · [Portafolio en español](https://johanrodriguez.is-a.dev/es)
 
 ## What I build and measure
 
